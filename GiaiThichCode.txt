@@ -1,0 +1,3 @@
+* Co 2 cach configure entity:
+	1. Sdung attribute configuration
+	2. Sdung Fluent API Configuration
